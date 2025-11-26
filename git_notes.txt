@@ -1,0 +1,10 @@
+Rough Notes
+git status 
+git pull origin main --  this will pull latest from git hub repository
+after changing the file  
+
+git add <filename>
+git status 
+git commit -m "Meaning  commit message" 
+git push origin main
+  
