@@ -1,4 +1,4 @@
-Rough Notes
+6Rough Notes
 git status 
 git pull origin main --  this will pull latest from git hub repository
 after changing the file  
@@ -7,4 +7,31 @@ git add <filename>
 git status 
 git commit -m "Meaning  commit message" 
 git push origin main
-  
+
+to add /r7eposiory from desk top t8o git hub 
+ git remote add origin https://github.com/harishkemkar/python_practice.git
+
+git remote add origin <Repo link>
+
+git remote add origin https://github.com/harishkemkar/python_practice.git
+
+
+>> To check if your repository has already  remote named origin 
+
+use below command  -  
+git remote -v 
+
+This will give output like
+$ git remote -v
+origin  https://github.com/harishkemkar/python_practice.git (fetch)
+origin  https://github.com/harishkemkar/python_practice.git (push)
+
+
+git remote set-url origin https://github.com/harishkemkar/python_practice.git
+   
+>> To push commited code to GitHub repo 
+
+git push -u origin main
+git push -u origin main    
+
+   
