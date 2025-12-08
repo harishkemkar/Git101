@@ -34,4 +34,14 @@ git remote set-url origin https://github.com/harishkemkar/python_practice.git
 git push -u origin main
 git push -u origin main    
 
+
+91915@LAPTOP-F1S4UM13 MINGW64 /d/Harish kemkar/Projects/github_repo (master)
+$ git config --global user.name
+Harish kemkar
+
+91915@LAPTOP-F1S4UM13 MINGW64 /d/Harish kemkar/Projects/github_repo (master)
+$ git config --global user.email
+Harish@gmail.com
+
+
    
