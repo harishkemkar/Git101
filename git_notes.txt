@@ -43,5 +43,12 @@ Harish kemkar
 $ git config --global user.email
 Harish@gmail.com
 
+--  To create and pull existing reporsitory from GIT Hub  
+
+git remote add origin https://github.com/harishkemkar/Git101   <<  this will add origin 
+git status
+git pull origin main <<  this will pull files from origin 
+git status
+ls -ltr
 
    
