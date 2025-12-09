@@ -52,4 +52,9 @@ git status
 ls -ltr
 
 
+
+--   to make vs code as editor for edit message s   
+
+ git config --global core.editor "code --wait"
+
    
