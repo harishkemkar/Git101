@@ -58,3 +58,11 @@ ls -ltr
  git config --global core.editor "code --wait"
 
    
+>> To update origin master variables   
+
+
+
+git remote set-url  origin https://github.com/harishkemkar/Git101
+
+
+git remote set-url <repo URL>
